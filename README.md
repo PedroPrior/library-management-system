@@ -4,7 +4,7 @@
   O processo possui todos os métodos CRUD e retorna o livro com as informações na página inicial. 
  Possui cadastro e login, para determinadas operações é preciso ter as permissões necessárias. </p>
 
-<h2> English </h2>
+<h2> English: </h2>
 <p> Development using the Spring ecosystem (Spring Boot, Spring Validation, Spring JPA, Spring Security). The process includes all CRUD methods and returns the book with information on the homepage. It has registration and login, certain operations require necessary permissions. </p>
 
 ### Imagens / Images:
